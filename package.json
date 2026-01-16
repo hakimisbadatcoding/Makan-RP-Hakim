@@ -1,0 +1,35 @@
+{
+  "name": "makan-rp",
+  "version": "1.0.0",
+  "description": "Makan@RP - AI-powered food recommendations for RP campus students powered by Snackii chatbot",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server --port=8080",
+    "build": "echo 'No build step needed for static site'",
+    "test": "echo 'Add tests here'",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "food",
+    "recommendations",
+    "chatbot",
+    "AI",
+    "campus",
+    "snackii",
+    "RPcampus"
+  ],
+  "author": "Makan@RP Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hakimisbadatcoding/Makan-RP-Hakim.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hakimisbadatcoding/Makan-RP-Hakim/issues"
+  },
+  "homepage": "https://github.com/hakimisbadatcoding/Makan-RP-Hakim#readme"
+}
