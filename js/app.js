@@ -12,7 +12,7 @@ const CONFIG = {
     WEBHOOK_URL: 'https://n8ngc.codeblazar.org/webhook/bc0df85b-ea80-4a3e-bf1a-e255b7723ccf', 
     STORAGE_KEY: 'snackii_chat_history',
     COLORS: {
-        primary: '#FF7F50',
+        primary: '#4CAF50',
         green: '#4CAF50',
         navy: '#2C3E50',
     }

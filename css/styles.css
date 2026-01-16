@@ -1,7 +1,7 @@
 /* ============================================
    MAKAN@RP - CSS STYLESHEET
    Color Palette:
-   - Primary Orange: #FF7F50
+   - Primary Green: #4CAF50
    - Fresh Green: #4CAF50
    - Navy Blue: #2C3E50
    - Light Cream: #FFF8F0
@@ -42,7 +42,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
-    border-bottom: 3px solid #FF7F50;
+    border-bottom: 3px solid #4CAF50;
     padding-bottom: 0.5rem;
     display: inline-block;
 }
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-    color: #FF7F50;
+    color: #4CAF50;
     text-decoration: none;
     transition: color 0.3s ease;
 }
@@ -119,8 +119,8 @@ a:hover {
 
 .nav-link:hover,
 .nav-link.active {
-    color: #FF7F50;
-    border-bottom: 2px solid #FF7F50;
+    color: #4CAF50;
+    border-bottom: 2px solid #4CAF50;
     padding-bottom: 0.3rem;
 }
 
@@ -217,7 +217,7 @@ a:hover {
 
 .tagline {
     font-size: 1.2rem;
-    color: #FF7F50;
+    color: #4CAF50;
     font-weight: 600;
     margin: 1rem 0;
 }
@@ -234,7 +234,7 @@ a:hover {
 }
 
 .cta-button {
-    background: linear-gradient(135deg, #FF7F50 0%, #FF9370 100%);
+    background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
     color: white;
     border: none;
     padding: 1rem 2rem;
@@ -247,7 +247,7 @@ a:hover {
 
 .cta-button:hover {
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(255, 127, 80, 0.3);
+    box-shadow: 0 5px 15px rgba(76, 175, 80, 0.3);
 }
 
 /* ============================================
@@ -305,7 +305,7 @@ a:hover {
 }
 
 .chat-header {
-    background: linear-gradient(135deg, #FF7F50 0%, #FF9370 100%);
+    background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
     color: white;
     padding: 1.5rem 2rem;
     text-align: center;
@@ -351,7 +351,7 @@ a:hover {
 }
 
 .user-message .message-content {
-    background: #FF7F50;
+    background: #4CAF50;
     color: white;
     padding: 0.8rem 1rem;
     border-radius: 15px;
@@ -397,12 +397,12 @@ a:hover {
 }
 
 .chat-input:focus {
-    border-color: #FF7F50;
-    box-shadow: 0 0 5px rgba(255, 127, 80, 0.2);
+    border-color: #4CAF50;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.2);
 }
 
 .send-button {
-    background: #FF7F50;
+    background: #4CAF50;
     color: white;
     border: none;
     padding: 0.8rem 1.5rem;
@@ -413,7 +413,7 @@ a:hover {
 }
 
 .send-button:hover {
-    background: #FF9370;
+    background: #66BB6A;
 }
 
 .chat-hint {
@@ -460,7 +460,7 @@ a:hover {
 }
 
 .faq-question[aria-expanded="true"] {
-    background: #FF7F50;
+    background: #4CAF50;
     color: white;
 }
 
@@ -505,7 +505,7 @@ a:hover {
 }
 
 .docs-content h4 {
-    color: #FF7F50;
+    color: #4CAF50;
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
 }
@@ -544,7 +544,7 @@ a:hover {
 }
 
 .about-section h3 {
-    color: #FF7F50;
+    color: #4CAF50;
     margin-bottom: 1rem;
 }
 
@@ -599,8 +599,8 @@ a:hover {
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #FF7F50;
-    box-shadow: 0 0 5px rgba(255, 127, 80, 0.2);
+    border-color: #4CAF50;
+    box-shadow: 0 0 5px rgba(76, 175, 80, 0.2);
 }
 
 .form-group.error input,
@@ -616,7 +616,7 @@ a:hover {
 }
 
 .submit-button {
-    background: linear-gradient(135deg, #FF7F50 0%, #FF9370 100%);
+    background: linear-gradient(135deg, #4CAF50 0%, #66BB6A 100%);
     color: white;
     border: none;
     padding: 1rem 2rem;
@@ -630,7 +630,7 @@ a:hover {
 
 .submit-button:hover:not(:disabled) {
     transform: translateY(-2px);
-    box-shadow: 0 5px 15px rgba(255, 127, 80, 0.3);
+    box-shadow: 0 5px 15px rgba(76, 175, 80, 0.3);
 }
 
 .submit-button:disabled {
@@ -654,7 +654,7 @@ a:hover {
 }
 
 .contact-details a {
-    color: #FF7F50;
+    color: #4CAF50;
 }
 
 /* ============================================
