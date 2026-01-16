@@ -97,7 +97,8 @@ a:hover {
 }
 
 .logo-icon {
-    font-size: 2rem;
+    height: 2.5rem;
+    width: auto;
 }
 
 .nav-menu {
